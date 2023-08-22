@@ -1,7 +1,5 @@
 # Sorting_Visualizer
 
-A web application showcasing the inner workings of sorting algorithms.
-
 Implemented algorithms:
 1) Bubble sort
 2) Selection sort
@@ -10,16 +8,25 @@ Implemented algorithms:
 5) Quick sort
 6) Heap sort
 
-Features:
-1) Colored representation of step being executed.
-  1.1) Pink:default
-  1.2) Yellow: Being compared
-  1.3) Red: Identified as in incorrect position and to be moved
-  1.4) Green: In correct position
-2) 3 Controls for visualizations
-  2.1) Speed of visualization (5 speed levels)
-  2.2) Data size ()
-  2.3) Generation of new data (Randomly generate new data).
-4) Time and Space complexity of algorithm being visualized.
+# Features:
+* Colored representation of step being executed.
+  1) Pink:default
+  2) Yellow: Being compared
+  3) Red: Identified as in incorrect position and to be moved
+  4) Green: In correct position
+* 3 Controls for visualizations
+  1) Speed of visualization (5 speed levels)
+  2) Data size ()
+  3) Generation of new data (Randomly generate new data).
+* Time and Space complexity of algorithm being visualized.
 
+  # Output
+
+
+![Screenshot 2023-08-22 075451](https://github.com/RohitRawat2001/Sorting_visualizer/assets/89390966/fd9142d3-fa5a-4fcc-8ebc-7c408566d315)
+
+![Screenshot 2023-08-22 075622](https://github.com/RohitRawat2001/Sorting_visualizer/assets/89390966/1d702077-5001-4188-8d2a-c2300bf43f12)
+
+
+![Screenshot 2023-08-22 075659](https://github.com/RohitRawat2001/Sorting_visualizer/assets/89390966/f8439e24-e09f-4f58-94ce-2c679564c83d)
 
