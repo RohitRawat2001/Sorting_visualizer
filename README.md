@@ -10,7 +10,7 @@ Implemented algorithms:
 
 # Features:
 * Colored representation of step being executed.
-  1) Pink:default
+  1) cyan:default
   2) Yellow: Being compared
   3) Red: Identified as in incorrect position and to be moved
   4) Green: In correct position
