@@ -1,5 +1,7 @@
 # Sorting_Visualizer
 
+( This project made with the help of clement mihailescu )
+
 Implemented algorithms:
 1) Bubble sort
 2) Selection sort
