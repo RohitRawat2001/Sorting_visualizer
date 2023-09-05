@@ -1,6 +1,6 @@
 # Sorting_Visualizer
 
-( This project made with the help of clement mihailescu )
+( This project was created with the help of Clement Mihailescu )
 
 Implemented algorithms:
 1) Bubble sort
